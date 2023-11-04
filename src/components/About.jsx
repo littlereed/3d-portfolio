@@ -47,9 +47,9 @@ const About = () => {
      >
         <ul className='text-[22px] text-blue-600/100'><a href='https://github.com/littlereed'>Github Account</a></ul>
         <ul>Email: lookluwei@gmail.com</ul>
-        I am a junior developer JavaScript, and graduated from Chongqing University of Humanities and Science College, and understand in frameworks like React, Node.js, and
-        Three.js. I try to create efficient, scalable, and user-friendly solutions that solve
-        real-world problems. 
+        I am a junior developer  in JavaScript and TypeScript, and understand in frameworks like React, Node.js, and
+        Three.js.  I graduated from Chongqing University of Humanities and Science College. I try to create efficient, 
+        scalable, and user-friendly solutions that solve real-world problems.
        
      </motion.p>
 
