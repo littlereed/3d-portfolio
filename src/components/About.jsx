@@ -45,8 +45,6 @@ const About = () => {
        variants={fadeIn('', '', 0.1 , 1)}
        className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
      >
-        <ul className='text-[22px] text-blue-600/100'><a href='https://github.com/littlereed'>Github Account</a></ul>
-        <ul>Email: lookluwei@gmail.com</ul>
         I am a junior developer  in JavaScript and TypeScript, and understand in frameworks like React, Node.js, and
         Three.js.  I graduated from Chongqing University of Humanities and Science College. I try to create efficient, 
         scalable, and user-friendly solutions that solve real-world problems.
